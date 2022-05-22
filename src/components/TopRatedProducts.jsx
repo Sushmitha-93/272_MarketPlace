@@ -111,7 +111,7 @@ export default function TopRatedProducts(props) {
       });
 
     let formData4 = new FormData();
-    formData4.append("site", "coffee_culture");
+    formData4.append("site", "coffeeculture");
 
     const url4 =
       "https://tutorawayphpbackend.000webhostapp.com/getTopProducts.php";

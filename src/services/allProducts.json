@@ -231,21 +231,21 @@
   {
     "prodId": 32,
     "prodName": "Caffè Americano",
-    "img": "Caffè Americano.jpg",
+    "img": "Caffe Americano.jpg",
     "site": "coffeeculture",
     "tagline": ""
   },
   {
     "prodId": 33,
     "prodName": "Café con hielo",
-    "img": "Café con hielo.jpg",
+    "img": "Cafe con hielo.jpg",
     "site": "coffeeculture",
     "tagline": ""
   },
   {
     "prodId": 34,
     "prodName": "Cappuccino",
-    "img": "Cappuccino.jpg",
+    "img": "CAPPUCCINO.jpg",
     "site": "coffeeculture",
     "tagline": ""
   },
@@ -266,7 +266,7 @@
   {
     "prodId": 37,
     "prodName": "Frappé coffee",
-    "img": "Frappé coffee.jpg",
+    "img": "Frappe coffee.jpg",
     "site": "coffeeculture",
     "tagline": ""
   },
@@ -287,7 +287,7 @@
   {
     "prodId": 40,
     "prodName": "Caffè macchiato",
-    "img": "Caffè macchiato.jpg",
+    "img": "Caffe macchiato.jpg",
     "site": "coffeeculture",
     "tagline": ""
   }
