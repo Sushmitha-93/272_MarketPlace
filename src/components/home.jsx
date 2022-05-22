@@ -53,9 +53,14 @@ class Home extends Component {
                   <br /> We have specials from each season as well. Do check
                   them out
                 </p>
-                <button class="btn btn-outline-secondary" type="button">
-                  Visit Freeze site!
-                </button>
+                <a
+                  target="_blank"
+                  href="https://hardcoresam.github.io/CMPE-272-Marketplace/"
+                >
+                  <button class="btn btn-outline-secondary" type="button">
+                    Visit Freeze site!
+                  </button>
+                </a>
               </div>
             </div>
           </div>
