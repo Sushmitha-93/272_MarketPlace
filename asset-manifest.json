@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/272_MarketPlace/static/css/main.51af0a7a.css",
-    "main.js": "/272_MarketPlace/static/js/main.c1487979.js",
+    "main.js": "/272_MarketPlace/static/js/main.467639ce.js",
     "static/js/787.56e861bd.chunk.js": "/272_MarketPlace/static/js/787.56e861bd.chunk.js",
     "static/media/vuejs.png": "/272_MarketPlace/static/media/vuejs.5244aa97e908310089b9.png",
     "static/media/loginbgimage.jpg": "/272_MarketPlace/static/media/loginbgimage.f461516b967953e06274.jpg",
@@ -40,11 +40,11 @@
     "static/media/Mocha Hot Chocolate.jpg": "/272_MarketPlace/static/media/Mocha Hot Chocolate.8575f4f469bf94fbf53e.jpg",
     "index.html": "/272_MarketPlace/index.html",
     "main.51af0a7a.css.map": "/272_MarketPlace/static/css/main.51af0a7a.css.map",
-    "main.c1487979.js.map": "/272_MarketPlace/static/js/main.c1487979.js.map",
+    "main.467639ce.js.map": "/272_MarketPlace/static/js/main.467639ce.js.map",
     "787.56e861bd.chunk.js.map": "/272_MarketPlace/static/js/787.56e861bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51af0a7a.css",
-    "static/js/main.c1487979.js"
+    "static/js/main.467639ce.js"
   ]
 }
