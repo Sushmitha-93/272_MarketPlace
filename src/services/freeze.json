@@ -1,0 +1,72 @@
+[
+  {
+    "site": "Freeze",
+    "prodId": 11,
+    "prodName": "KIWI",
+    "tagline": "",
+    "img": "kiwi.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 12,
+    "prodName": "MANGO",
+    "tagline": "",
+    "img": "mango.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 13,
+    "prodName": "CANTALOUPE",
+    "tagline": "",
+    "img": "cantaloupe.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 14,
+    "prodName": "BLACKBERRY",
+    "tagline": "",
+    "img": "blackberry.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 15,
+    "prodName": "STRAWBERRY",
+    "tagline": "",
+    "img": "strawberry.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 16,
+    "prodName": "BLUEBERRY",
+    "tagline": "",
+    "img": "blueberry.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 17,
+    "prodName": "GRAPES",
+    "tagline": "",
+    "img": "grapes.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 18,
+    "prodName": "GREEN APPLE",
+    "tagline": "",
+    "img": "green-apple.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 19,
+    "prodName": "PINEAPPLE",
+    "tagline": "",
+    "img": "pineapple.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 20,
+    "prodName": "ORANGE",
+    "tagline": "",
+    "img": "kiwi.jpg"
+  }
+]

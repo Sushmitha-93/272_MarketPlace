@@ -1,0 +1,294 @@
+[
+  {
+    "site": "Tutor_Away",
+    "prodId": 1,
+    "prodName": "Master React",
+
+    "img": "reactpic.jpg",
+    "tagline": "Understand React inside out and boost your career prospects",
+    "link": "/reactjsCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 2,
+    "prodName": "The Complete Node.Js Course",
+    "img": "nodejspic.jpg",
+    "tagline": "Learn to build highly-scalable, fast and secure RESTful APIs with Node, Express, and MongoDB.",
+    "link": "/nodejsCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 3,
+    "prodName": "Learn Vue.Js",
+    "img": "vuejs.png",
+    "tagline": "Vue is a newer and refreshing framework for building web apps with more ease than writing vanilla HTML",
+    "link": "/vuejsCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 4,
+    "prodName": "Learn Next.Js",
+    "img": "nextjs-thumb.png",
+    "tagline": "Next.js is a minimalistic framework for server-rendered React applications as well as statically exported React apps.",
+    "link": "/nextjsCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 5,
+    "prodName": "JavaScript Mastery Course",
+    "img": "jsimage.png",
+    "tagline": "Master the Fundamentals of JavaScript - The Language Behind Millions of Websites & Apps",
+    "link": "/javascriptCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 6,
+    "prodName": "Python Tutorial for Beginers",
+    "img": "pythonimage.png",
+    "tagline": "Everything you need to program in Python in one course ",
+    "link": "/pythonCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 7,
+    "prodName": "Mongo DB",
+    "img": "mongodb.png",
+    "tagline": "Learn Mongo DB online at your own pace. Start today and improve your skills",
+    "link": "/mongodbCourse"
+  },
+
+  {
+    "site": "Tutor_Away",
+    "prodId": 8,
+    "prodName": "React Native Fundamentals",
+    "img": "reactnative.png",
+    "tagline": "Master the Fundamentals of Building Native Apps with React Native and Expo",
+    "link": "/reactnativeCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 9,
+    "prodName": "Machine Learning Crash Course",
+    "img": "machineLearning.png",
+    "tagline": "Analyze, Visualize Data and Build Machine Learning Models with Python ",
+    "link": "/mlCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 10,
+    "prodName": "Natural Language Processing",
+    "img": "nlp.png",
+    "tagline": "Explore Fundamental concepts of NLP and its role in current and emerging technologies through hands on exercises.",
+    "link": "/nlpCourse"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 11,
+    "prodName": "KIWI",
+    "tagline": "",
+    "img": "kiwi.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 12,
+    "prodName": "MANGO",
+    "tagline": "",
+    "img": "mango.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 13,
+    "prodName": "CANTALOUPE",
+    "tagline": "",
+    "img": "cantaloupe.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 14,
+    "prodName": "BLACKBERRY",
+    "tagline": "",
+    "img": "blackberry.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 15,
+    "prodName": "STRAWBERRY",
+    "tagline": "",
+    "img": "strawberry.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 16,
+    "prodName": "BLUEBERRY",
+    "tagline": "",
+    "img": "blueberry.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 17,
+    "prodName": "GRAPES",
+    "tagline": "",
+    "img": "grapes.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 18,
+    "prodName": "GREEN APPLE",
+    "tagline": "",
+    "img": "green-apple.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 19,
+    "prodName": "PINEAPPLE",
+    "tagline": "",
+    "img": "pineapple.jpg"
+  },
+  {
+    "site": "Freeze",
+    "prodId": 20,
+    "prodName": "ORANGE",
+    "tagline": "",
+    "img": "kiwi.jpg"
+  },
+  {
+    "prodId": 21,
+    "prodName": "Computer science",
+    "img": "cs.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 22,
+    "prodName": "Artificial Intelligence",
+    "img": "ai.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 23,
+    "prodName": "Civil Engineering",
+    "img": "civil.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 24,
+    "prodName": "Robotic Engineering",
+    "img": "robotic.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 25,
+    "prodName": "Mechanical Engineering",
+    "img": "mech.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 26,
+    "prodName": "Chemical Engineering",
+    "img": "chemical.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 27,
+    "prodName": "philosophy",
+    "img": "phil.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 28,
+    "prodName": "Finance",
+    "img": "Finance.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 29,
+    "prodName": "Account",
+    "img": "Account.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 30,
+    "prodName": "Theatre",
+    "img": "threatre.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 31,
+    "prodName": "bica",
+    "img": "bica.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 32,
+    "prodName": "Caffè Americano",
+    "img": "Caffè Americano.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 33,
+    "prodName": "Café con hielo",
+    "img": "Café con hielo.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 34,
+    "prodName": "Cappuccino",
+    "img": "Cappuccino.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 35,
+    "prodName": "Espresso",
+    "img": "Espresso.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 36,
+    "prodName": "Doppio",
+    "img": "Doppio.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 37,
+    "prodName": "Frappé coffee",
+    "img": "Frappé coffee.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 38,
+    "prodName": "Affogato",
+    "img": "Affogato.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 39,
+    "prodName": "Mocha Hot Chocolate",
+    "img": "Mocha Hot Chocolate.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 40,
+    "prodName": "Caffè macchiato",
+    "img": "Caffè macchiato.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  }
+]

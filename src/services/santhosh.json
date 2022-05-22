@@ -1,0 +1,72 @@
+[
+  {
+    "prodId": 21,
+    "prodName": "Computer science",
+    "img": "cs.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 22,
+    "prodName": "Artificial Intelligence",
+    "img": "ai.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 23,
+    "prodName": "Civil Engineering",
+    "img": "civil.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 24,
+    "prodName": "Robotic Engineering",
+    "img": "robotic.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 25,
+    "prodName": "Mechanical Engineering",
+    "img": "mech.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 26,
+    "prodName": "Chemical Engineering",
+    "img": "chemical.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 27,
+    "prodName": "philosophy",
+    "img": "phil.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 28,
+    "prodName": "Finance",
+    "img": "Finance.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 29,
+    "prodName": "Account",
+    "img": "Account.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  },
+  {
+    "prodId": 30,
+    "prodName": "Theatre",
+    "img": "threatre.jpg",
+    "site": "Need_to_learn",
+    "tagline": ""
+  }
+]

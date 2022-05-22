@@ -1,0 +1,72 @@
+[
+  {
+    "prodId": 31,
+    "prodName": "bica",
+    "img": "bica.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 32,
+    "prodName": "Caffè Americano",
+    "img": "Caffe Americano.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 33,
+    "prodName": "Café con hielo",
+    "img": "Cafe con hielo.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 34,
+    "prodName": "Cappuccino",
+    "img": "CAPPUCCINO.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 35,
+    "prodName": "Espresso",
+    "img": "Espresso.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 36,
+    "prodName": "Doppio",
+    "img": "Doppio.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 37,
+    "prodName": "Frappé coffee",
+    "img": "Frappe coffee.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 38,
+    "prodName": "Affogato",
+    "img": "Affogato.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 39,
+    "prodName": "Mocha Hot Chocolate",
+    "img": "Mocha Hot Chocolate.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  },
+  {
+    "prodId": 40,
+    "prodName": "Caffè macchiato",
+    "img": "Caffe macchiato.jpg",
+    "site": "coffeeculture",
+    "tagline": ""
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "site": "Tutor_Away",
+    "prodId": 1,
+    "prodName": "Master React",
+
+    "img": "reactpic.jpg",
+    "tagline": "Understand React inside out and boost your career prospects",
+    "link": "/reactjsCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 2,
+    "prodName": "The Complete Node.Js Course",
+    "img": "nodejspic.jpg",
+    "tagline": "Learn to build highly-scalable, fast and secure RESTful APIs with Node, Express, and MongoDB.",
+    "link": "/nodejsCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 3,
+    "prodName": "Learn Vue.Js",
+    "img": "vuejs.png",
+    "tagline": "Vue is a newer and refreshing framework for building web apps with more ease than writing vanilla HTML",
+    "link": "/vuejsCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 4,
+    "prodName": "Learn Next.Js",
+    "img": "nextjs-thumb.png",
+    "tagline": "Next.js is a minimalistic framework for server-rendered React applications as well as statically exported React apps.",
+    "link": "/nextjsCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 5,
+    "prodName": "JavaScript Mastery Course",
+    "img": "jsimage.png",
+    "tagline": "Master the Fundamentals of JavaScript - The Language Behind Millions of Websites & Apps",
+    "link": "/javascriptCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 6,
+    "prodName": "Python Tutorial for Beginers",
+    "img": "pythonimage.png",
+    "tagline": "Everything you need to program in Python in one course ",
+    "link": "/pythonCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 7,
+    "prodName": "Mongo DB",
+    "img": "mongodb.png",
+    "tagline": "Learn Mongo DB online at your own pace. Start today and improve your skills",
+    "link": "/mongodbCourse"
+  },
+
+  {
+    "site": "Tutor_Away",
+    "prodId": 8,
+    "prodName": "React Native Fundamentals",
+    "img": "reactnative.png",
+    "tagline": "Master the Fundamentals of Building Native Apps with React Native and Expo",
+    "link": "/reactnativeCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 9,
+    "prodName": "Machine Learning Crash Course",
+    "img": "machineLearning.png",
+    "tagline": "Analyze, Visualize Data and Build Machine Learning Models with Python ",
+    "link": "/mlCourse"
+  },
+  {
+    "site": "Tutor_Away",
+    "prodId": 10,
+    "prodName": "Natural Language Processing",
+    "img": "nlp.png",
+    "tagline": "Explore Fundamental concepts of NLP and its role in current and emerging technologies through hands on exercises.",
+    "link": "/nlpCourse"
+  }
+]
