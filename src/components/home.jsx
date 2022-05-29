@@ -76,9 +76,14 @@ class Home extends Component {
                   to live classes |
                   <br /> Explore new things & Stay updated !!
                 </p>
-                <button class="btn btn-outline-light" type="button">
-                  Visit Need to Learn site!
-                </button>
+                <a
+                  target="_blank"
+                  href="http://santhosh1233.000webhostapp.com/"
+                >
+                  <button class="btn btn-outline-light" type="button">
+                    Visit Need to Learn site!
+                  </button>
+                </a>
               </div>
             </div>
             <div class="col-md-6">
